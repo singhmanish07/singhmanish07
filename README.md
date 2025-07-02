@@ -10,7 +10,7 @@
 - 🎓 MCA Graduate from **MMMUT, Gorakhpur, Uttar Pradesh**
 - 🧠 Learning **MERN Stack, DSA, and AI/ML**
 - 💬 Ask me about **JavaScript, MongoDB, React, Node.js, or AI ethics**
-- 📫 Reach me at: **singhmanish07@gmail.com**
+- 📫 Reach me at: **manish13singh19@gmail.com**
 - 🖥️ My Portfolio: [https://singhmanish.vercel.app](https://singhmanish.vercel.app)
 - ⚡ Fun fact: **“Don’t stop until you are proud.”**
 
@@ -27,7 +27,7 @@
 
 ### 🛠️ Languages and Tools:
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,sql,react,nodejs,express,mongodb,tailwind,bootstrap,html,git,github,vercel,canva,vscode,intellijidea,render" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,tailwind,bootstrap,html,git,github,vercel,vscode,intellijidea" />
 </p>
 
 ---
