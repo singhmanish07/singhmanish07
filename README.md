@@ -29,6 +29,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,tailwind,bootstrap,html,git,github,vercel,vscode,intellijidea" />
 </p>
+![IntelliJ IDEA](https://img.shields.io/badge/IDE-IntelliJ%20IDEA-blue?logo=intellijidea&logoColor=white)
 
 ---
 
