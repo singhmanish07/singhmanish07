@@ -4,9 +4,18 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=singhmanish07&label=Profile%20views&color=0e75b6&style=flat" alt="singhmanish07" />
 </p>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/programmer.png" width="400" alt="programmer coding" />
-</div>
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
+
+## About Me
+* 🌍  I'm from Aligarh, India
+* 🔭 I’m currently working on  React-Native Android Applications.
+* 🌱 I’m currently learning MERN Stacks, Data Structures & Algorithms and React-Native.
+* 👯 I’m looking to collaborate on **Open Source Projects**.
+* 🤔 I’m looking for help with developing web apps.
+* 📫 How to reach me **yamanrajsingh07@gmail.com**
+* ⚡ Fun fact: **Don't stop until you are proud**.
+* 💬 ask me about anything, i am happy to help;
+* 👨‍💻 My Portfolio: **https://yamanrajsingh.github.io/Portfolio/**
 ---
 
 - 🎓 MCA Graduate from **MMMUT, Gorakhpur, Uttar Pradesh**
