@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manish Singh</h1>
 <h3 align="center">A passionate Full Stack Developer | Java Programmer | Problem Solver</h3>
+
 ---
 
-<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
+<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
 
 ## About Me
 - 🎓 MCA Graduate from **MMMUT, Gorakhpur, Uttar Pradesh**
@@ -10,6 +11,10 @@
 - 💬 Ask me about **JavaScript, MongoDB, React, Node.js, or AI ethics**
 - 📫 Reach me at: **manish13singh19@gmail.com**
 - 🖥️ My Portfolio: [https://singhmanish.vercel.app](https://singhmanish.vercel.app)
+- ghfh
+- hsfd
+- sgf
+- ghj
 
 ---
 
@@ -28,7 +33,7 @@
 ### 📈 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=singhmanish07&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhmanish07&layout=compact&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhmanish07&layout=compact&theme=tokyonight" width="40%" />
 </p>
 
 ---
