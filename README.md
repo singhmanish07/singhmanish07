@@ -3,7 +3,9 @@
 
 ---
 
-## About Me
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"/>
+
+### About Me:
 - 🎓 MCA Graduate from **MMMUT, Gorakhpur, Uttar Pradesh**
 - 🧠 Learning **MERN Stack, DSA, and AI/ML**
 - 💬 Ask me about **JavaScript, MongoDB, React, Node.js, or AI ethics**
@@ -12,8 +14,6 @@
 - ghfh
 - hsfd
 - sgf
-
-<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"/>
 
 ---
 
@@ -33,7 +33,7 @@
 ---
 
 ### 📈 GitHub Stats:
-<p align="center">
+<p>
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=singhmanish07&show_icons=true&theme=tokyonight" width="55%" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhmanish07&layout=compact&theme=tokyonight" width="45%" />
 </p>
