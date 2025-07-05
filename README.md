@@ -35,8 +35,8 @@
 
 ### 📈 GitHub Stats:
 
-<p align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=singhmanish07&show_icons=true&theme=tokyonight" width="55%" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=singhmanish07&show_icons=true&theme=tokyonight" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhmanish07&layout=compact&theme=tokyonight" width="40%" />
 </p>
 
