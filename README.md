@@ -35,7 +35,7 @@
 
 ### 📈 GitHub Stats:
 
-<p>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=singhmanish07&show_icons=true&theme=tokyonight" width="55%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhmanish07&layout=compact&theme=tokyonight" width="45%" />
 </p>
@@ -55,8 +55,6 @@
 
 ### 💻 LeetCode Stats:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/singhmanish07?ext=contest&theme=dark)](https://leetcode.com/singhmanish07/)
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=singhmanish07&theme=Dark)](https://leetcode.com/singhmanish07)
-
 
 ---
 
