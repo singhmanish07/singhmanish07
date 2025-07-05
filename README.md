@@ -35,8 +35,8 @@
 ### 📈 GitHub Stats:
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=singhmanish07&show_icons=true&theme=tokyonight" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhmanish07&layout=compact&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=singhmanish07&show_icons=true&theme=tokyonight" width="55%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhmanish07&layout=compact&theme=tokyonight" width="45%" />
 </p>
 
 ---
@@ -48,12 +48,14 @@
 
 
 ### 🏆 GitHub Trophies:
-[![Trophy](https://github-profile-trophy.vercel.app/?username=singhmanish07&theme=monokai&no-frame=true&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+ [![trophy](https://github-profile-trophy.vercel.app/?username=singhmanish07&theme=onedark)](https://github.com/singhmanish07/github-profile-trophy)
 
 ---
 
 ### 💻 LeetCode Stats:
-[![LeetCode Stats](https://leetcard.jacoblin.cool/singhmanish07?ext=contest&theme=dark)](https://leetcode.com/singhmanish07/)
+<!--[![LeetCode Stats](https://leetcard.jacoblin.cool/singhmanish07?ext=contest&theme=dark)](https://leetcode.com/singhmanish07/)-->
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=singhmanish07&theme=Dark)](https://leetcode.com/singhmanish07)
+
 
 ---
 
