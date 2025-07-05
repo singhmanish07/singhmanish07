@@ -6,15 +6,13 @@
 <img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif"/>
 
 ### 👨‍💻 About Me:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=graduationcap" height="20" /> MCA Graduate from <strong>MMMUT, Gorakhpur, Uttar Pradesh</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=brain" height="20" /> Learning <strong>MERN Stack, DSA, and AI/ML</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=javascript" height="20" /> Ask me about <strong>JavaScript, MongoDB, React, Node.js, or AI Ethics</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=gmail" height="20" /> Reach me at: <strong>manish13singh19@gmail.com</strong><br><br>
-  <img src="https://skillicons.dev/icons?i=vercel" height="20" /> Portfolio: <a href="https://singhmanish.vercel.app" target="_blank"><strong>https://singhmanish.vercel.app</strong></a><br><br>
-  <img src="https://skillicons.dev/icons?i=lightbulb" height="20" /> Passionate about tech that makes a difference.
-</p>
+- 🎓 MCA Graduate from **MMMUT, Gorakhpur, Uttar Pradesh**
+- 🧠 Learning **MERN Stack, DSA, and AI/ML**
+- 💬 Ask me about **JavaScript, MongoDB, React, Node.js, or AI ethics**
+- 📫 Reach me at: **manish13singh19@gmail.com**
+- 🌐 Portfolio: [https://singhmanish.vercel.app](https://singhmanish.vercel.app)
+- 🌱 Always curious and improving through projects and research
+- 💡 Interested in working on impactful tech for society
 
 ---
 
@@ -66,7 +64,7 @@
 ---
 
 ### 💻 LeetCode Stats:
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=singhmanish07&theme=dark)](https://leetcode.com/singhmanish07/)
+[![LeetCode Stats](https://leetcard.jacoblin.cool/singhmanish07?ext=contest&theme=dark)](https://leetcode.com/singhmanish07/)
 
 ---
 
