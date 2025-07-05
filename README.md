@@ -4,7 +4,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=singhmanish07&label=Profile%20views&color=0e75b6&style=flat" alt="singhmanish07" />
 </p>
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/your-image-link.gif" width="400" alt="programmer coding" />
+</div>
 ---
 
 - 🎓 MCA Graduate from **MMMUT, Gorakhpur, Uttar Pradesh**
