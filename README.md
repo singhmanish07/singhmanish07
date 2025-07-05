@@ -13,6 +13,7 @@
 - 🖥️ My Portfolio: [https://singhmanish.vercel.app](https://singhmanish.vercel.app)
 - ghfh
 - hsfd
+- gfh
 - sgf
 
 ---
@@ -53,7 +54,7 @@
 ---
 
 ### 💻 LeetCode Stats:
-<!--[![LeetCode Stats](https://leetcard.jacoblin.cool/singhmanish07?ext=contest&theme=dark)](https://leetcode.com/singhmanish07/)-->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/singhmanish07?ext=contest&theme=dark)](https://leetcode.com/singhmanish07/)
 [![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=singhmanish07&theme=Dark)](https://leetcode.com/singhmanish07)
 
 
