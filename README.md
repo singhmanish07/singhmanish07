@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" alt="Coding" width="300" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
+<img align="right" alt="Coding" width="250" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" />
 
 ## About Me
 - 🎓 MCA Graduate from **MMMUT, Gorakhpur, Uttar Pradesh**
@@ -32,7 +32,7 @@
 
 ### 📈 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=singhmanish07&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=singhmanish07&show_icons=true&theme=tokyonight" width="55%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhmanish07&layout=compact&theme=tokyonight" width="40%" />
 </p>
 
@@ -50,6 +50,12 @@
 
 ### 💻 LeetCode Stats:
 [![LeetCode Stats](https://leetcard.jacoblin.cool/singhmanish07?ext=contest&theme=dark)](https://leetcode.com/singhmanish07/)
+
+---
+
+### 💻 HackerRank Stats:
+### 🧠 HackerRank Profile:
+[![HackerRank Badge](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/singhmanish07)
 
 ---
 
