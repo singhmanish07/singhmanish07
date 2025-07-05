@@ -35,19 +35,14 @@
 ### 📈 GitHub Stats:
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=singhmanish07&show_icons=true&theme=tokyonight" width="49%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhmanish07&layout=compact&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=singhmanish07&show_icons=true&theme=tokyonight" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhmanish07&layout=compact&theme=tokyonight" width="49%" />
 </p>
-
-<br><br><br><br>
 
 ---
 
 ### 🔥 GitHub Streak:
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=singhmanish07&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
 
 ---
 
