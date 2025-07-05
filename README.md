@@ -33,10 +33,8 @@
 ---
 
 ### 📈 GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=singhmanish07&show_icons=true&theme=tokyonight" width="55%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhmanish07&layout=compact&theme=tokyonight" width="45%" />
-</p>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=singhmanish07&show_icons=true&theme=tokyonight" width="49%" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhmanish07&layout=compact&theme=tokyonight" width="49%" />
 
 ---
 
