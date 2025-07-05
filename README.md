@@ -33,15 +33,24 @@
 ---
 
 ### 📈 GitHub Stats:
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=singhmanish07&show_icons=true&theme=tokyonight" width="49%" />
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhmanish07&layout=compact&theme=tokyonight" width="49%" />
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=singhmanish07&show_icons=true&theme=tokyonight" width="49%" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singhmanish07&layout=compact&theme=tokyonight" width="49%" />
+</p>
+
+<br><br><br><br>
 
 ---
 
 ### 🔥 GitHub Streak:
-[![GitHub Streak](https://streak-stats.demolab.com?user=singhmanish07&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=singhmanish07&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
 
 ---
+
 
 ### 🏆 GitHub Trophies:
 [![Trophy](https://github-profile-trophy.vercel.app/?username=singhmanish07&theme=monokai&no-frame=true&column=8)](https://github.com/ryo-ma/github-profile-trophy)
