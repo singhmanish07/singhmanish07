@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=singhmanish07&label=Profile%20views&color=0e75b6&style=flat" alt="singhmanish07" />
 </p>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-image-link.gif" width="400" alt="programmer coding" />
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/programmer.png" width="400" alt="programmer coding" />
 </div>
 ---
 
