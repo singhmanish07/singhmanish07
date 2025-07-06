@@ -17,21 +17,20 @@
 ---
 
 ### 🌐 Connect with me:
-### 🌐 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/singhmanish07" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
   <a href="https://leetcode.com/singhmanish07" target="_blank">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="30" alt="LeetCode"/>
   </a>
   <a href="https://www.hackerrank.com/singhmanish07" target="_blank">
-    <img src="https://skillicons.dev/icons?i=hackerrank" height="30" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="30" alt="HackerRank"/>
   </a>
   <a href="https://instagram.com/singhmanish07" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="30" />
   </a>
-  <a href="https://twitter.com/singhmanish_07" target="_blank">
+  <a href="https://twitter.com/singhmanish07" target="_blank">
     <img src="https://skillicons.dev/icons?i=twitter" height="30" />
   </a>
 </p>
