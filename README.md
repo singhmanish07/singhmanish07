@@ -7,33 +7,34 @@
 
 ### 👨‍💻 About Me:
 - 🎓 MCA Graduate from **MMMUT, Gorakhpur, Uttar Pradesh**
+- 🎓 B.Sc. from **DDU Gorakhpur University**
 - 🧠 Learning **MERN Stack, DSA, and AI/ML**
 - 💬 Ask me about **JavaScript, MongoDB, React, Node.js, or AI ethics**
 - 📫 Reach me at: **manish13singh19@gmail.com**
 - 🌐 Portfolio: [https://singhmanish.vercel.app](https://singhmanish.vercel.app)
-- 🌱 Always curious and improving through projects and research
-- 💡 Interested in working on impactful tech for society
+- 📄 Resume: [Click here to view my resume]([https://your-resume-link.com](https://drive.google.com/file/d/1leRv4rtoEJcdMXP921QtMqI6YXn28rAA/view?usp=sharing))
 
 ---
 
 ### 🌐 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/singhmanish07" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/singhmanish07" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" alt="LeetCode" />
   </a>
   <a href="https://www.hackerrank.com/singhmanish07" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="30" alt="HackerRank" />
   </a>
   <a href="https://instagram.com/singhmanish07" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="30" alt="Instagram" />
   </a>
   <a href="https://twitter.com/singhmanish07" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733579.png" height="30" alt="Twitter" />
   </a>
 </p>
+
 
 ---
 
