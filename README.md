@@ -12,7 +12,7 @@
 - 💬 Ask me about **JavaScript, MongoDB, React, Node.js, or AI ethics**
 - 📫 Reach me at: **manish13singh19@gmail.com**
 - 🌐 Portfolio: [https://singhmanish.vercel.app](https://singhmanish.vercel.app)
-- 📄 Resume: [Click here to view my resume]([https://your-resume-link.com](https://drive.google.com/file/d/1leRv4rtoEJcdMXP921QtMqI6YXn28rAA/view?usp=sharing))
+- 📄 Resume: [Click here to view my resume](https://drive.google.com/file/d/1leRv4rtoEJcdMXP921QtMqI6YXn28rAA/view?usp=sharing)
 
 ---
 
