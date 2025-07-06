@@ -22,10 +22,10 @@
     <img src="https://skillicons.dev/icons?i=linkedin" height="30" />
   </a>
   <a href="https://leetcode.com/singhmanish07" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="30" alt="LeetCode"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="30" alt="LeetCode" />
   </a>
   <a href="https://www.hackerrank.com/singhmanish07" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hackerrank/hackerrank-original.svg" height="30" alt="HackerRank"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" height="30" alt="HackerRank" />
   </a>
   <a href="https://instagram.com/singhmanish07" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="30" />
